@@ -1,0 +1,33 @@
+/* This is styles CSS file for all odin recipes. */
+
+/* Rules across all recipes. */
+
+/* Pics */
+.first_pic {
+    height: auto;
+    width: 500px;
+}
+
+/* body */
+.h2 {
+    font-size: 18px;
+    color: blue;
+}
+
+.header {
+    color: green;
+    font-size: 20px;
+}
+
+.header.steps {
+    color: black;
+    font-style: Verdana;
+}
+
+.button_home {
+    background-color: red;
+    color: Black;
+    font-weight: bold;
+    font-size: 18px;
+}
+

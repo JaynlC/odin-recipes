@@ -1,0 +1,29 @@
+* {
+    font-style: Verdana
+}
+
+.intro_pic {
+    height: auto;
+    width: 600pxpx
+}
+
+h1 {
+    Font-size: 62px;
+    color: blue;
+    
+    font-weight: bold;
+    text-align: centre;
+}
+
+li {
+    Font-size: 18px;
+    font-weight: bold;
+    
+}
+
+.button {
+    background-color: white;
+    color: black;
+    font-size: 32px;
+    font-weight: bold;
+}
